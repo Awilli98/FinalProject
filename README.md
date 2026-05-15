@@ -4,7 +4,7 @@
 This website was created for GreenTech Solutions, a company focused on environmental sustainability and eco-friendly technology. The site provides information about the company, products, sustainability resources, and contact information for potential customers.
 
 ## Live Site
-https://yourusername.github.io/your-repository-name/
+https://awilli98.github.io/FinalProject/
 
 ## Features
 - Semantic HTML5 structure
